@@ -1,0 +1,52 @@
+[
+	{
+		"language": "TH",
+		"label": [
+			{"name": "caption_title", "value": "ข้อมูลโครงสร้าง"},
+			{"name": "inactive_headerlabel", "value": "สถานะ"},
+			{"name": "tenanturl_label", "value": "ที่อยู่ผู้ครอบครอง"},
+			{"name": "domainname_label", "value": "ชื่อโดเมน"},
+			{"name": "invisible_label", "value": "การมองเห็น"},
+			{"name": "systemname_headerlabel", "value": "ระบบ"},
+			{"name": "description_label", "value": "คำอธิบาย"},
+			{"name": "applicationid_label", "value": "รหัสแอพลิเคชั่น"},
+			{"name": "inactive_label", "value": "สถานะ"},
+			{"name": "descriptions_label", "value": "คำอธิบาย"},
+			{"name": "domainnames_label", "value": "ชื่อโดเมน"},
+			{"name": "domainname_headerlabel", "value": "ชื่อโดเมน"},
+			{"name": "applicationid_headerlabel", "value": "รหัสแอพลิเคชั่น"},
+			{"name": "invisible_headerlabel", "value": "การมองเห็น"},
+			{"name": "description_headerlabel", "value": "คำอธิบาย"},
+			{"name": "systemtype_label", "value": "ระบบ"},
+			{"name": "appstype_label", "value": "ชนิด"},
+			{"name": "domaintype_label", "value": "ชนิดโดเมน"},
+			{"name": "domainurl_label", "value": "ที่อยู่แอพลิเคชั่น"},
+			{"name": "basedn_label", "value": "ที่อยู่โดเมน"},
+			{"name": "secretkey_label", "value": "รหัสลับ"}		]
+	},
+	{
+		"language": "EN",
+		"label": [
+			{"name": "caption_title", "value": "Active Directory Information"},
+			{"name": "inactive_headerlabel", "value": "Status"},
+			{"name": "tenanturl_label", "value": "Tenant URL"},
+			{"name": "domainname_label", "value": "Domain Name"},
+			{"name": "invisible_label", "value": "Visibility"},
+			{"name": "systemname_headerlabel", "value": "System Type"},
+			{"name": "description_label", "value": "Description"},
+			{"name": "applicationid_label", "value": "Application ID"},
+			{"name": "inactive_label", "value": "Status"},
+			{"name": "descriptions_label", "value": "Description"},
+			{"name": "domainnames_label", "value": "Domain Name"},
+			{"name": "domainname_headerlabel", "value": "Domain Name"},
+			{"name": "applicationid_headerlabel", "value": "Application ID"},
+			{"name": "invisible_headerlabel", "value": "Visibility"},
+			{"name": "description_headerlabel", "value": "Description"},
+			{"name": "systemtype_label", "value": "System Type"},
+			{"name": "appstype_label", "value": "Application Type"},
+			{"name": "domaintype_label", "value": "Domain Type"},
+			{"name": "domainurl_label", "value": "Redirect URL"},
+			{"name": "basedn_label", "value": "Base Domain"},
+			{"name": "secretkey_label", "value": "Secret Key"}		]
+	}
+]
