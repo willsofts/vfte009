@@ -5,8 +5,6 @@ import "jquery-ui-dist/jquery-ui.css";
 import "bootstrap";
 import "bootbox";
 import "./assets/jquery/js/jquery.maskedinput.js";
-import "./assets/clockpicker/bootstrap-clockpicker.js";
-import "./assets/clockpicker/bootstrap-clockpicker.css";
 import "./assets/css/font-awesome.css";
 import "./assets/css/component.css";
 import "./assets/css/base_style.css";
